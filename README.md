@@ -1,9 +1,6 @@
 * COMO CRIAR E POPULAR O BANCO DE DADOS
 1. Baixar postgres16
 2. Baixar dbeaver
-3. Criar conexão com as informações:
-    - host: localhost
-    - porta: 5432
-    - banco de dados: tp2_ibd
-    - usuario e senha: postgres
-4. Rodar o script adicionarDadosAoBD.py
+3. Criar uma conexão local com postgres
+4. Atualizar as informações de host, porta, nome do banco de dados, usuário e senha no script 'adicionarDadosAoBD.py'
+5. Rodar o script adicionarDadosAoBD.py com o comando "python adicionarDadosAoBD.py"
