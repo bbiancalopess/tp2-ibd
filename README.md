@@ -1,4 +1,4 @@
-PASSO A PASSO:
+* COMO CRIAR E POPULAR O BANCO DE DADOS
 1. Baixar postgres16
 2. Baixar dbeaver
 3. Criar conexão com as informações:
